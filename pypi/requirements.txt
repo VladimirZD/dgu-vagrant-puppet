@@ -1,7 +1,7 @@
 Babel==0.9.4
 Beaker==1.6.3
 ConcurrentLogHandler==0.8.4
-Flask==0.8
+Flask==1.0
 FormAlchemy==1.4.1
 FormEncode==1.2.4
 Genshi==0.6
